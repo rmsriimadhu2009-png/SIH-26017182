@@ -65,7 +65,7 @@ Next, I will add basic AI features to predict demand and a route-planning featur
 *FLOWCHART:
 
 
-<img width="572" height="1552" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/238e1e96-dccd-4eaf-a7d4-18a6e16d2516" />
+<img width="272" height="552" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/238e1e96-dccd-4eaf-a7d4-18a6e16d2516" />
 
 *WORKING PROTOTYPE:
 
